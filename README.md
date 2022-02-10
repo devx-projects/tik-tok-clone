@@ -7,10 +7,7 @@
  Short videos platform with Flutter and Firebase.
 </h4>
 <hr>
-<p align="center">
-  <img src="https://img.shields.io/github/license/Ansh-Rathod/Flutter-Tiktok-Videos" />
-  <img src="https://img.shields.io/github/issues/Ansh-Rathod/Flutter-Tiktok-Videos" />
-  <img src="https://img.shields.io/github/stars/Ansh-Rathod/Flutter-Tiktok-Videos?style=social" />
+
 
 </p>
 <br/>
